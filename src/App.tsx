@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Getting started on Location Search (A Google Maps clone)</div>
+    <div className="m-4">Getting started on Location Search (A Google Maps clone)</div>
   )
 }
 
